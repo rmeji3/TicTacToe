@@ -1,6 +1,6 @@
 /**
  * @file:  MyMethods.java
- * @author: Kevin Walsh <kwalsh@bhsd228.com>
+ * @author: Rafael Mejia
  * @date: 9/24/19
  *
  * This is going to be software that will contain several methds that will be used through out the year.
